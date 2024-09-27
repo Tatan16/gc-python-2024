@@ -1,0 +1,42 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Meus_animes_favoritos</th>
+      <th>Ano_de_lançamento</th>
+      <th>Nota_de_quanto_gosto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Demons Slayer</td>
+      <td>2019</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Attack on Titan</td>
+      <td>2013</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Overlord</td>
+      <td>2015</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Dragon Ball</td>
+      <td>1986</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Sword Art Online</td>
+      <td>2012</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
