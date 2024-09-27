@@ -5,6 +5,20 @@
 **Level Atual:** 1
 
 ---
+## Feedback exercícios
+
+- **Aula 01:**
+	- **Ex1:** Incorreto, deveria pedir input do usuário
+	- **Ex2:** Ok
+	- **Ex3:** Ok, porém em cenários simples não tem necessidade de separar em tantas células
+- **Aula 02:**
+	- **Ex4:** Ok
+	- **Ex5:** Ok
+	- **Ex6:** Ok, porém em cenários simples tente manter a lógica em uma células
+	
+- Geral: mantenha a ordem dos exercícios, ao invés de aula02/exercicio01 use aulas02/exercicio04
+
+---
 ## Conquistas
 
 
